@@ -1,7 +1,7 @@
 # Oi, eu sou Fernando 🖖
 
 ### Sobre 
-- 22 anos de idade
+- 23 anos de idade
 - Estudante front-end
 - Cursando Sistemas de informação
 
