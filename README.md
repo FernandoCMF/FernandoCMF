@@ -6,7 +6,7 @@
 
 ### Sobre 
 
-- 23 anos de idade
+- 24 anos de idade
 - Estudante front-end
 - Cursando Sistemas de informação
 - Amante de filmes e séries (Aceito recomendações hueheu)
