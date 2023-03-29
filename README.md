@@ -11,6 +11,7 @@
 - Cursando Sistemas de informação
 - Amante de filmes e séries (Aceito recomendações hueheu)
 - Tentando ser melhor
+- Aluno da OneBitCode
 
 ### Atualmente estudando 👾
 <div display="flex"> 
