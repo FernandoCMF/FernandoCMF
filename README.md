@@ -6,10 +6,9 @@
 
 ### Sobre 
 
-- 24 anos
+- 25 anos
 - Estudante front-end
-- Cursando Sistemas de informação
-- Amante de filmes e séries (Aceito recomendações hueheu)
+- Formado Sistemas de informação
 - Tentando ser melhor
 - Aluno da OneBitCode
 
@@ -28,5 +27,5 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/fernando-coelho-mendes/)
 [![](https://camo.githubusercontent.com/b3d4671768bd0f9b6c8f410a25a96e0c5a4d135208d8910461e986f97e7985ab/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d4534343035463f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465)](https://www.instagram.com/xnando_mendesx/)
 
-<p align="center"> Olha o que ele anda fazendo!! <img align="center" src="https://media1.giphy.com/media/W1fCWWxDcFK53vpGHg/200w.webp?cid=ecf05e47ugfa1gsjpnohe8kjzusw59xlj5533660bd9bktt8&rid=200w.webp&ct=s" width="100"/>wubba lubba dub dub</p>
+<p align="center"> Olha o que ele anda fazendo!! <img align="center" src="https://media1.giphy.com/media/W1fCWWxDcFK53vpGHg/200w.webp?cid=ecf05e47ugfa1gsjpnohe8kjzusw59xlj5533660bd9bktt8&rid=200w.webp&ct=s" width="100"/></p>
  
